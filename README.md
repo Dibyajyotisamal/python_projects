@@ -1,2 +1,4 @@
-This repository consists of python projects i have done
-# python_projects
+This repository consists of python projects I have done
+
+shop calculator
+currency convertor
