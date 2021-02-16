@@ -5,3 +5,5 @@ This repository consists of python projects I have done
 #currency convertor	
 
 #file cleaner
+
+#extension setter
